@@ -1,4 +1,7 @@
 <?php
+
+namespace UniFi\Api;
+
 /**
  * UniFi PHP API client
  *
@@ -35,6 +38,7 @@
  *
  */
 define('API_CLASS_VERSION', '1.1.6');
+
 
 class Client
 {
