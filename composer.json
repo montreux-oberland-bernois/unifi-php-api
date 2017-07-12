@@ -1,5 +1,5 @@
 {
-    "name": "montreux-oberland-bernois/UniFi-PHP-API",
+    "name": "montreux-oberland-bernois/unifi-php-api",
     "description": "UniFi Controller API Client Class",
     "type": "library",
     "license": "MIT",
