@@ -1,0 +1,16 @@
+{
+    "name": "montreux-oberland-bernois/UniFi-PHP-API",
+    "description": "UniFi Controller API Client Class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "UniFi\\Api\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "ext-curl": "*",
+        "ext-libxml": "*"
+    }
+}
